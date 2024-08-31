@@ -15,7 +15,7 @@
 
 ## Right now I'm probably
 - Gaming
-- Ricing my linux desktop (errrm I use nix btw)
+- Ricing my linux desktop (errrm I use nix btw :nerd: :raising_finger:)
 - Working on a programming project
 - Watching anime
 
