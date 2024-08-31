@@ -19,4 +19,4 @@
 - Working on a programming project
 - Watching anime
 
-<img = https://github.com/Klattet/Klattet/blob/main/piplup.gif">
+<img src = https://github.com/Klattet/Klattet/blob/main/piplup.gif">
