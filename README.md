@@ -9,9 +9,9 @@
 - Algorithms and datastructures
 
 ## Current favorite languages
-- <img src = "https://github.com/nim-lang/assets/blob/master/Art/logo-crown.svg" height = 20> Nim
-- <img src = "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height = 20> Python
-- <img src = "https://github.com/ocaml/ocaml.org/blob/main/asset/policies/logos/OCaml_Sticker.svg" height = 20> OCaml
+- <img src = "https://github.com/nim-lang/assets/blob/master/Art/logo-crown.svg" width = 20> Nim
+- <img src = "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width = 20> Python
+- <img src = "https://github.com/ocaml/ocaml.org/blob/main/asset/policies/logos/OCaml_Sticker.svg" width = 20> OCaml
 
 ## Right now I'm probably
 - Gaming
