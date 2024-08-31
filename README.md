@@ -19,4 +19,6 @@
 - Working on a programming project
 - Watching anime
 
+<img src="https://readme-jokes.vercel.app/api?hideborder&theme=material-palenight" alt="Jokes Card" />
+
 <img src = "https://github.com/Klattet/Klattet/blob/main/piplup.gif">
