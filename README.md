@@ -18,3 +18,5 @@
 - Ricing my linux desktop (errrm I use nix btw)
 - Working on a programming project
 - Watching anime
+
+<img = https://github.com/Klattet/Klattet/blob/main/piplup.gif">
